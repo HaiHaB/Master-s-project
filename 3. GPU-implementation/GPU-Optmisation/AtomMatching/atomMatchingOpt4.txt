@@ -1,0 +1,6 @@
+    2    3       500        7.48342       miilliseconds
+    2    3      1000        2.07258       miilliseconds
+    2    3       500        2.31734       miilliseconds
+    2    3      1000        1.67734       miilliseconds
+    2    3       500        4.65514       miilliseconds
+    2    3      1000        2.16371       miilliseconds

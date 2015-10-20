@@ -1,0 +1,8 @@
+   88    ,18         ,1000              ,366.363                   ,milliseconds
+   88    ,18         ,2000              ,406.394                   ,milliseconds
+   88    ,18         ,3000              ,792.266                   ,milliseconds
+   88    ,18         ,4000              ,1623.3                   ,milliseconds
+   88    ,18         ,5000              ,2227.79                   ,milliseconds
+   88    ,18         ,6000              ,2644.61                   ,milliseconds
+   88    ,18         ,7000              ,2707.9                   ,milliseconds
+   88    ,18         ,8000              ,3340.21                   ,milliseconds

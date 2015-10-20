@@ -1,0 +1,26 @@
+CH3I                 CHEMBL115849         Iodomethane         
+0 0.823294 0.823294 0 
+C2H2                 CHEMBL116336         Ethyne              
+0 0.825 0.825 0 
+CH3F                 CHEMBL116838         Fluoromethane       
+0 0.823294 0.823294 0 
+CH3Cl                CHEMBL117545         Chloromethane       
+0 0.823294 0.823294 0 
+C2H4                 CHEMBL117822         Ethylene            
+0 0.823294 0.823294 0 
+CH2O                 CHEMBL1255           E240                
+0 0.825 0.825 0 
+C2H6                 CHEMBL135626         Ethane              
+0 0.825 0.825 0 
+N2                   CHEMBL142438         E941                
+0 0.825 0.825 0 
+CH4O                 CHEMBL14688          Methyl              
+0 0.825 0.825 0 
+CHN                  CHEMBL183419         Cyanide             
+0 0.858394 0.858394 0 
+CH5N                 CHEMBL43280          Methylamine         
+0 0.825 0.825 0 
+CH3Br                CHEMBL48339          Bromomethane        
+0 0.825 0.825 0 
+H2O2                 CHEMBL71595          Oxydol              
+0 0.825 0.825 0 

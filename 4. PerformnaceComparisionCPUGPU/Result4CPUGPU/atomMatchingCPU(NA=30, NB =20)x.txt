@@ -1,0 +1,5 @@
+   30    ,20         ,10000              ,18422.4                   ,milliseconds
+   30    ,20         ,20000              ,36848.8                   ,milliseconds
+   30    ,20         ,30000              ,55271.6                   ,milliseconds
+   30    ,20         ,40000              ,73717.7                   ,milliseconds
+   30    ,20         ,50000              ,92153.5                   ,milliseconds

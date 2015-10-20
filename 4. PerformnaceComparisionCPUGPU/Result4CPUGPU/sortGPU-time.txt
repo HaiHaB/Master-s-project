@@ -1,0 +1,64 @@
+  100          0.078             seconds
+  200          0.143             seconds
+  300          0.208             seconds
+  400          0.274             seconds
+  500           0.34             seconds
+  600          0.408             seconds
+  700           0.47             seconds
+  800          0.535             seconds
+  900          0.604             seconds
+ 1000          0.668             seconds
+ 2000          1.321             seconds
+ 3000          1.969             seconds
+ 4000          2.618             seconds
+ 5000          3.277             seconds
+ 6000          4.012             seconds
+ 7000          4.661             seconds
+ 8000          5.292             seconds
+ 9000          5.932             seconds
+10000          6.565             seconds
+20000         13.212             seconds
+30000         19.736             seconds
+40000          26.13             seconds
+50000         33.266             seconds
+60000         39.054             seconds
+70000         45.582             seconds
+80000         52.169             seconds
+90000         58.494             seconds
+100000         64.867             seconds
+200000        129.866             seconds
+300000        194.834             seconds
+400000        260.621             seconds
+500000        328.184             seconds
+600000        394.057             seconds
+700000        492.453             seconds
+800000        552.103             seconds
+900000        587.986             seconds
+1000000        653.344             seconds
+2000000         1333.7        milliseconds
+3000000         1999.7        milliseconds
+4000000         2666.6        milliseconds
+5000000           3522        milliseconds
+6000000         4228.8        milliseconds
+7000000         4930.5        milliseconds
+8000000           5637        milliseconds
+9000000         6343.2        milliseconds
+10000000         7044.9        milliseconds
+1000000,          678.1,        milliseconds
+2000000,         1338.6,        milliseconds
+3000000,         2009.4,        milliseconds
+4000000,         2664.6,        milliseconds
+5000000,         3547.2,        milliseconds
+6000000,         4255.1,        milliseconds
+7000000,           4926,        milliseconds
+8000000,         5630.6,        milliseconds
+1000000,          665.5,        milliseconds
+2000000,         1329.5,        milliseconds
+3000000,         1997.5,        milliseconds
+4000000,         2661.5,        milliseconds
+5000000,           3513,        milliseconds
+6000000,         4218.5,        milliseconds
+7000000,           4920,        milliseconds
+8000000,         5619.5,        milliseconds
+9000000,           6323,        milliseconds
+10000000,         7029.5,        milliseconds

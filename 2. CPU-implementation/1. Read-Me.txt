@@ -1,0 +1,12 @@
+CPU implementation has 4 main functions:
+- calculate atom match matrix: atomMatchhingCPU.cpp 
+- calculate similarity score: calculateSimilarityCPU.cpp
+- sort the top k results: SortCPU.cpp
+- Combined algorithm and simple command-line function: CPU-impelementation.cpp
+
+
+To run the program
+1. Run CPU-implementation,out or CPU-implementation,exe
+2. Copy the mol file that you want to test into this folder  
+
+Note: To recompile the program, use CPU-Implementation-Windows.bat or CPU-Implementation-Linux.bat as references

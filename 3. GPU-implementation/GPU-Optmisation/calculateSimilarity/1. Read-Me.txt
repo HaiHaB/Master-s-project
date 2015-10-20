@@ -1,0 +1,6 @@
+This folder contains 5 main functions:
+- 4 calculate similarity optimisations: calculateSimilarity1.cu to calculateSimilarity4.cu
+- a test function for all implementations: calculateSimilarityTesting
+
+To run the program, run TestingCalculateSimilarity.bat
+

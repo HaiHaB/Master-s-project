@@ -1,0 +1,7 @@
+This folder contains 5 main functions:
+- 7 atomMatching optimisations:atomMatchingOpt1.cu to atomMatchingOpt7.cu
+- a test function for all seven implementation: AtomMatchingTest.cu
+
+
+To run the program, run Testing.bat
+

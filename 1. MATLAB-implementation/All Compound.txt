@@ -1,0 +1,4 @@
+Chemical Formula     Compound ID           Compound Name      
+------------------------------------------------------------------
+C6H6                 CHEMBL277500         Benzene             
+C18H12N4O3           CHEMBL6328                               

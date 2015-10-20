@@ -1,0 +1,6 @@
+set Pathname="C:\Users\Hai Ha\Desktop\HH_SVN_BHAM\performnaceComparisionCPUGPU\Sort"
+cd /d %Pathname%
+
+nvcc SortCompare.cu Sort.cu SortCPU.cpp "C:\Users\Hai Ha\Desktop\HH_SVN_BHAM\CommonFiles\commonFunction.cpp" -I"C:\Users\Hai Ha\Desktop\HH_SVN_BHAM\CommonFiles" -o sort.exe
+
+sort.exe

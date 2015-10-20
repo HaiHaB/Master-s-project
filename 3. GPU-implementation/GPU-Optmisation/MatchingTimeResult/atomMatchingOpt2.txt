@@ -1,0 +1,16 @@
+    2    ,3         ,1              ,2.10026                   ,milliseconds
+    2    ,3         ,500              ,2.79862                   ,milliseconds
+    2    ,3         ,1000              ,8.16653                   ,milliseconds
+    2    ,3         ,1500              ,14.6985                   ,milliseconds
+    2    ,3         ,2000              ,19.158                   ,milliseconds
+    2    ,3         ,2500              ,24.7419                   ,milliseconds
+    2    ,3         ,3000              ,38.5997                   ,milliseconds
+    2    ,3         ,3500              ,55.3902                   ,milliseconds
+    2    ,3         ,1              ,2.59894                   ,milliseconds
+    2    ,3         ,500              ,4.49232                   ,milliseconds
+    2    ,3         ,1000              ,7.51824                   ,milliseconds
+    2    ,3         ,1500              ,10.6947                   ,milliseconds
+    2    ,3         ,2000              ,16.0041                   ,milliseconds
+    2    ,3         ,2500              ,21.4754                   ,milliseconds
+    2    ,3         ,3000              ,30.2019                   ,milliseconds
+    2    ,3         ,3500              ,48.9033                   ,milliseconds

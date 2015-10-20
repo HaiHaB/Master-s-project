@@ -1,0 +1,12 @@
+GPU implementation has 4 main functions:
+- calculate atom match matrix: AtomMatchhing.cu 
+- calculate similarity score: calculateSimilarity.cu
+- sort the top k results: Sort.cu
+- Combined algorithm and simple command-line function: GPU-impelementation.cpp
+
+
+To run the program
+1. Run GPU-Implementation.out or GPU-Implementation.exe
+2. Copy the mol file that you want to test into this folder  
+
+Note: To recompile the program, use GPU-Implementation-Windows.bat or GPU-Implementation-Linux.bat as references

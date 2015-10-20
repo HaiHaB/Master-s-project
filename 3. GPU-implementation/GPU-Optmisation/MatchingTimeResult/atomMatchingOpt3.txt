@@ -1,0 +1,12 @@
+    2    3       500        11.4043        milliseconds
+    2    3      1000        36.6039        milliseconds
+    2    3       500        14.8541        milliseconds
+    2    3      1000        35.5287        milliseconds
+    2    3       500        12.0853        milliseconds
+    2    3      1000        36.9531        milliseconds
+    2    3       500         12.797        milliseconds
+    2    3      1000        34.3716        milliseconds
+    2    ,3         ,500              ,13.3632                   ,milliseconds
+    2    ,3         ,1000              ,39.1352                   ,milliseconds
+    2    ,3         ,500              ,12.198                   ,milliseconds
+    2    ,3         ,1000              ,35.0976                   ,milliseconds

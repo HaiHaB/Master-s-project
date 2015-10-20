@@ -1,0 +1,4 @@
+To run the program
+1. Run calculateSimilarity.exe
+ 
+Note: To recompile the calculateSimilarityCompare.cu program, use calculateSimilarityCompare-Linux.bat or calculateSimilarityCompare-Windows.bat as references
